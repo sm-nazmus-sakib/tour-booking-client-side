@@ -1,0 +1,10 @@
+.partner-header {
+  width: 40%;
+  border-radius: 10px;
+  color: white;
+  background-color: rgb(17, 194, 26);
+}
+.partner img {
+  height: 140px;
+  width: 240px;
+}

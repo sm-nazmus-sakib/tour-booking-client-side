@@ -1,0 +1,16 @@
+.header button {
+  background-color: rgb(15, 164, 223);
+  padding: 4px 4px;
+  /* border-radius: 5px; */
+  color: white;
+}
+
+.header button:hover {
+  background-color: rgb(59, 240, 23);
+  color: rgb(70, 7, 216);
+}
+
+.userName {
+  text-decoration: none;
+  margin-left: 5px;
+}
